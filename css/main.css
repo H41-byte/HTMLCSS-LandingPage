@@ -10,11 +10,11 @@ section { display: flex; }
     cursor: pointer;
     border: 0;
     padding: 6px 12px;
-    border-radius: 3px
+    border-radius: 3px;
     line-height: 1.4;
 }
 .button-default { color: #ffffff; background-color: #faa541; }
-.button-primary { color: #ffffff; background-color: #364147 }
+.button-primary { color: #ffffff; background-color: #364147; }
 .form-control {
     display: block;
     padding: 6px 12px;
